@@ -5,6 +5,9 @@
 Building scalable, production-ready web applications with real-world impact.
 </p>
 
+
+<img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" class="d-block w-100" width=1920px height=100% alt="...">
+
 ---
 
 ## 🚀 About Me
