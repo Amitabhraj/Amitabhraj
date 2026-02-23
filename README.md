@@ -74,12 +74,10 @@ Building scalable, production-ready web applications with real-world impact.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amitabh-raj&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabh-raj&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
