@@ -79,8 +79,6 @@ Building scalable, production-ready web applications with real-world impact.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitabh-raj&theme=tokyonight" />
 </p> -->
 
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
